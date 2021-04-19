@@ -638,11 +638,7 @@ input, select, textarea {
 		.icon > img {
 			display: inline-block;
 			vertical-align: middle;
-			horizontal-align: middle;
-			max-width: 25rem;
-			max-height: 25rem;
-			width: 20rem;
-			height: 20rem;
+			height: 100%
 		}
 
 /* Image */
@@ -1301,10 +1297,10 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 17;
-			height: 17rem;
-			line-height: 17rem;
-			border: solid 1px #ffffff;
+			width: 30rem;
+			height: 30rem;
+			line-height: 30rem;
+			order: solid 1px #ffffff;
 			border-radius: 100%;
 		}
 

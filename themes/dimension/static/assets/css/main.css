@@ -639,10 +639,10 @@ input, select, textarea {
 			display: inline-block;
 			vertical-align: middle;
 			horizontal-align: middle;
-			max-width: 17;
-			max-height: 17;
-			width: auto;
-			height: auto;
+			max-width: 25rem;
+			max-height: 25rem;
+			width: 20rem;
+			height: 20rem;
 		}
 
 /* Image */

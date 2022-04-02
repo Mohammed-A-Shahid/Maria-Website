@@ -1,6 +1,6 @@
 ---
 title: Maria Shaikh
-description: A great human
+description: Law Student
 background: "images/bg.jpg"
 logo: "images/maria.jpg"
 ---
